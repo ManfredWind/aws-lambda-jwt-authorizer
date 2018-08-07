@@ -1,2 +1,2 @@
 # aws-lambda-jwt-authorizer
-Quick sample of an AWS Lambda JWT Authorizer
+Quick sample of an AWS Lambda JWT Authorizer with Java
